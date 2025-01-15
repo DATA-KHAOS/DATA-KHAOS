@@ -1,6 +1,6 @@
 <h1 align="center">Bem Vindo(a)!</h1>
 <h1 align="center">Lugar em que você visita para aprimorar conceitos que podem botar ordem ao KHAOS.</h1>
-<img align="right" alt="Data" width="300" src="assets/KHAOS.svg">
+<img align="right" alt="Data" width="400" src="assets/KHAOS.svg">
  
  <h3>Habilidades que usamos:</h3>
    
