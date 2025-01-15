@@ -1,31 +1,31 @@
 <h1 align="center">Bem Vindo(a)!</h1>
-<h1 align="center">Lugar em que você visita para aprimorar conceitos que podem botar ordem ao KHAOS.</h1>
+<h1 align="center">Ao lugar onde a ciência de dados coloca ordem no KHAOS.</h1>
 <img align="right" alt="Data" width="400" src="assets/KHAOS.svg">
  
 <h3>Habilidades que usamos:</h3>
 <table>
   <tr>
-    <td><img alt="Data" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"></td>
+    <td><img alt="Data" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg"></td>
     <td>Python</td>
   </tr>
   <tr>
-    <td></td>
+    <td><img alt="Data" width="40" src="https://github.com/valohai/ml-logos/blob/master/pandas.svg"></td>
     <td>Pandas</td>
   </tr>
   <tr>
-    <td></td>
+    <td><img alt="Data" width="40" src="https://github.com/valohai/ml-logos/blob/master/matplotlib.svg"></td>
     <td>Visualização de dados</td>
   </tr>
   <tr>
-    <td></td>
+    <td><img alt="Data" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/SciKitLearn-Light.svg"></td>
     <td>Machine Learning</td>
   </tr>
   <tr>
-    <td></td>
+    <td><img alt="Data" width="40" src="https://github.com/valohai/ml-logos/blob/master/keras.svg"><img alt="Data" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyTorch-Light.svg"></td>
     <td>Redes Neurais</td>
   </tr>
   <tr>
-    <td></td>
+    <td><img alt="Data" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/OpenCV-Light.svg"></td>
     <td>Visão Computacional</td>
   </tr>
 </table>
