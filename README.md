@@ -2,16 +2,33 @@
 <h1 align="center">Lugar em que você visita para aprimorar conceitos que podem botar ordem ao KHAOS.</h1>
 <img align="right" alt="Data" width="400" src="assets/KHAOS.svg">
  
- <h3>Habilidades que usamos:</h3>
-   
-   - Python
-   - Pandas
-   - Visualização de dados
-   - Machine Learning
-   - Redes Neurais
-   - Visão Computacional
-
-
+<h3>Habilidades que usamos:</h3>
+<table>
+  <tr>
+    <td><img alt="Data" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"></td>
+    <td>Python</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Pandas</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Visualização de dados</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Machine Learning</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Redes Neurais</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Visão Computacional</td>
+  </tr>
+</table>
 
 <h3>📂 Lista de Projetos Finalizados</h3>
 
