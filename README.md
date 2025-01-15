@@ -1,6 +1,6 @@
 <h1 align="center">Bem Vindo(a) ao KHAOS!</h1>
 <h1 align="center">Lugar em que você visita para aprimorar conceitos que podem botar ordem ao caos.</h1>
-
+![Descrição da imagem](assets/KHAOS.png)
  ### Habilidades que usamos para organizar o caos:
    - Python
    - Pandas
@@ -8,7 +8,7 @@
    - Machine Learning
    - Redes Neurais
    - Visão Computacional
-<img align="right" alt="Data" width="400" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif">
+
 
 
 ## 📂 Lista de Projetos Finalizados
